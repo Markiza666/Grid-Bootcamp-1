@@ -15,7 +15,6 @@ body {
     border: 2px solid #222;
     border-radius: .5rem;
     margin: 1rem;
-    display: flex;
     padding: 1rem;
     box-sizing: border-box;
     display: grid;
